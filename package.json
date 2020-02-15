@@ -1,0 +1,11 @@
+{
+  "name": "reda-01",
+  "version": "1.0.0",
+  "description": "showCase for Reda",
+  "main": "showcase.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MB",
+  "license": "ISC"
+}
